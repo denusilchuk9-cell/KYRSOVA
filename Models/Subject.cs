@@ -1,4 +1,6 @@
-﻿namespace ElectronicJournal.Models
+using System;
+
+namespace ElectronicJournal.Models
 {
     public class Subject
     {
@@ -6,6 +8,25 @@
         public string Name { get; set; }
         public string TeacherName { get; set; }
         public int Hours { get; set; }
-        public string ControlForm { get; set; } // "Залік" або "Іспит"
+        public string ControlForm { get; set; }
+
+        public Subject(string name)
+        {
+            if (string.IsNullOrWhiteSpace(name))
+                throw new ArgumentException("Назва предмета не може бути порожньою");
+            Name = name;
+        }
+
+        public Subject() { }
+
+        public string GetInfo()
+        {
+            return $"{Name} - {TeacherName} - {Hours} год. - {ControlForm}";
+        }
+
+        public bool Validate()
+        {
+            return !string.IsNullOrWhiteSpace(Name);
+        }
     }
 }
