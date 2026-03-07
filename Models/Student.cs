@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ElectronicJournal.Models
 {
@@ -12,9 +12,27 @@ namespace ElectronicJournal.Models
         public string Email { get; set; }
         public string Phone { get; set; }
 
+        public Student(string firstName, string lastName)
+        {
+            if (string.IsNullOrWhiteSpace(firstName))
+                throw new ArgumentException("Ім'я не може бути порожнім");
+            if (string.IsNullOrWhiteSpace(lastName))
+                throw new ArgumentException("Прізвище не може бути порожнім");
+
+            FirstName = firstName;
+            LastName = lastName;
+        }
+
+        public Student() { }
+
         public string GetFullName()
         {
             return $"{LastName} {FirstName} {MiddleName}";
+        }
+
+        public bool Validate()
+        {
+            return !string.IsNullOrWhiteSpace(FirstName) && !string.IsNullOrWhiteSpace(LastName);
         }
     }
 }
