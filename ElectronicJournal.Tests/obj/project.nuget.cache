@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OCF1GL/Tv40=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournal.Tests\\ElectronicJournal.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dream\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
+    "C:\\Users\\Dream\\.nuget\\packages\\microsoft.net.test.sdk\\16.11.0\\microsoft.net.test.sdk.16.11.0.nupkg.sha512",
+    "C:\\Users\\Dream\\.nuget\\packages\\mstest.testadapter\\2.2.10\\mstest.testadapter.2.2.10.nupkg.sha512",
+    "C:\\Users\\Dream\\.nuget\\packages\\mstest.testframework\\2.2.10\\mstest.testframework.2.2.10.nupkg.sha512"
+  ],
+  "logs": []
+}

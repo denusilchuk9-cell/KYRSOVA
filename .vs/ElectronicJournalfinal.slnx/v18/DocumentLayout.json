@@ -1,0 +1,699 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AE86DC-9D2C-4CDD-8680-84267E71D1B7}|ElectronicJournal.Tests\\ElectronicJournal.Tests.csproj|c:\\users\\dream\\source\\repos\\electronicjournalfinal\\electronicjournal.tests\\alltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AE86DC-9D2C-4CDD-8680-84267E71D1B7}|ElectronicJournal.Tests\\ElectronicJournal.Tests.csproj|solutionrelative:electronicjournal.tests\\alltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\data\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\data\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AE86DC-9D2C-4CDD-8680-84267E71D1B7}|ElectronicJournal.Tests\\ElectronicJournal.Tests.csproj|c:\\users\\dream\\source\\repos\\electronicjournalfinal\\electronicjournal.tests\\electronicjournal.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5AE86DC-9D2C-4CDD-8680-84267E71D1B7}|ElectronicJournal.Tests\\ElectronicJournal.Tests.csproj|solutionrelative:electronicjournal.tests\\electronicjournal.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\forms\\gradeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\forms\\gradeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\business\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\business\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\forms\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\forms\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\forms\\gradeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\forms\\gradeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\forms\\attendanceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\forms\\attendanceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\forms\\gradeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\forms\\gradeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\testform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\testform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\data\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\data\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\data\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\data\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\business\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\business\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\interfaces\\iattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\interfaces\\iattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\business\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\business\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\interfaces\\igraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\interfaces\\igraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\forms\\subjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\forms\\subjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\forms\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\forms\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\forms\\studentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\forms\\studentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\forms\\subjectform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\forms\\subjectform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\forms\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\forms\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\forms\\subjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\forms\\subjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\forms\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\forms\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\business\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\business\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\business\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\business\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\business\\weightedaveragestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\business\\weightedaveragestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\business\\simpleaveragestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\business\\simpleaveragestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\business\\iaveragestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\business\\iaveragestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\data\\repositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\data\\repositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\data\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\data\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\interfaces\\isubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\interfaces\\isubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\electronicjournalfinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{597A7211-5790-42FE-A753-2000BA117A5F}|ElectronicJournalfinal\\ElectronicJournalfinal.csproj|solutionrelative:electronicjournalfinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllTests.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournal.Tests\\AllTests.cs",
+              "RelativeDocumentMoniker": "ElectronicJournal.Tests\\AllTests.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournal.Tests\\AllTests.cs",
+              "RelativeToolTip": "ElectronicJournal.Tests\\AllTests.cs",
+              "ViewState": "AgIAAPQBAAAAAAAAAAAowAoCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T20:53:52.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElectronicJournal.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournal.Tests\\ElectronicJournal.Tests.csproj",
+              "RelativeDocumentMoniker": "ElectronicJournal.Tests\\ElectronicJournal.Tests.csproj",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournal.Tests\\ElectronicJournal.Tests.csproj",
+              "RelativeToolTip": "ElectronicJournal.Tests\\ElectronicJournal.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-20T20:51:14.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Models\\Student.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:10:19.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Forms\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\MainForm.Designer.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Forms\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:18:12.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GradeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\GradeForm.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Forms\\GradeForm.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\GradeForm.cs [Design]",
+              "RelativeToolTip": "ElectronicJournalfinal\\Forms\\GradeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:20:18.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GradeForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\GradeForm.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Forms\\GradeForm.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\GradeForm.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Forms\\GradeForm.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAswCIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:20:23.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Data\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Data\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Data\\StudentRepository.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Data\\StudentRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:13:39.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AttendanceForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\AttendanceForm.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Forms\\AttendanceForm.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\AttendanceForm.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Forms\\AttendanceForm.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAQwNgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:20:51.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Business\\SubjectService.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Business\\SubjectService.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Business\\SubjectService.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Business\\SubjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:15:22.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\TestForm.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\TestForm.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\TestForm.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\TestForm.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAQwIcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T20:53:07.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AttendanceForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\AttendanceForm.Designer.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Forms\\AttendanceForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\AttendanceForm.Designer.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Forms\\AttendanceForm.Designer.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAUwI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:23:59.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GradeForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\GradeForm.Designer.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Forms\\GradeForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\GradeForm.Designer.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Forms\\GradeForm.Designer.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:23:30.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AttendanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Data\\AttendanceRepository.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Data\\AttendanceRepository.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Data\\AttendanceRepository.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Data\\AttendanceRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T20:24:10.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Business\\AttendanceService.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Business\\AttendanceService.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Business\\AttendanceService.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Business\\AttendanceService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvzQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:15:50.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Models\\Grade.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Models\\Grade.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:11:24.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\MainForm.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAQwH0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:18:08.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Models\\Attendance.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Models\\Attendance.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Models\\Attendance.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:11:38.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Program.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Program.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Program.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:21:02.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GradeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Data\\GradeRepository.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Data\\GradeRepository.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Data\\GradeRepository.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Data\\GradeRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T20:20:48.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAttendanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Interfaces\\IAttendanceRepository.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Interfaces\\IAttendanceRepository.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Interfaces\\IAttendanceRepository.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Interfaces\\IAttendanceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T20:23:51.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GradeService.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Business\\GradeService.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Business\\GradeService.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Business\\GradeService.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Business\\GradeService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvzoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:15:40.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SubjectForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\SubjectForm.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Forms\\SubjectForm.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\SubjectForm.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Forms\\SubjectForm.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAG4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:29:42.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IGradeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Interfaces\\IGradeRepository.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Interfaces\\IGradeRepository.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Interfaces\\IGradeRepository.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Interfaces\\IGradeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T20:20:35.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\StudentForm.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Forms\\StudentForm.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\StudentForm.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Forms\\StudentForm.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAADwv78AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:18:30.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SubjectForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\SubjectForm.Designer.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Forms\\SubjectForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\SubjectForm.Designer.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Forms\\SubjectForm.Designer.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAADwv4QAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:23:14.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StudentForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\StudentForm.Designer.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Forms\\StudentForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\StudentForm.Designer.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Forms\\StudentForm.Designer.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:19:22.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AttendanceForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\AttendanceForm.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Forms\\AttendanceForm.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\AttendanceForm.cs [Design]",
+              "RelativeToolTip": "ElectronicJournalfinal\\Forms\\AttendanceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:20:47.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "ElectronicJournalfinal\\Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:18:02.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SubjectForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\SubjectForm.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Forms\\SubjectForm.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\SubjectForm.cs [Design]",
+              "RelativeToolTip": "ElectronicJournalfinal\\Forms\\SubjectForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:19:58.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StudentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\StudentForm.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Forms\\StudentForm.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Forms\\StudentForm.cs [Design]",
+              "RelativeToolTip": "ElectronicJournalfinal\\Forms\\StudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:18:27.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Business\\StudentService.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Business\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Business\\StudentService.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Business\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:15:13.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GradeCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Business\\GradeCalculator.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Business\\GradeCalculator.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Business\\GradeCalculator.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Business\\GradeCalculator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:14:59.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WeightedAverageStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Business\\WeightedAverageStrategy.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Business\\WeightedAverageStrategy.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Business\\WeightedAverageStrategy.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Business\\WeightedAverageStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:14:50.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SimpleAverageStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Business\\SimpleAverageStrategy.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Business\\SimpleAverageStrategy.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Business\\SimpleAverageStrategy.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Business\\SimpleAverageStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:14:42.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IAverageStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Business\\IAverageStrategy.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Business\\IAverageStrategy.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Business\\IAverageStrategy.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Business\\IAverageStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:14:32.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RepositoryFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Data\\RepositoryFactory.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Data\\RepositoryFactory.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Data\\RepositoryFactory.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Data\\RepositoryFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:14:18.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Data\\SubjectRepository.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Data\\SubjectRepository.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Data\\SubjectRepository.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Data\\SubjectRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:13:50.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ISubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Interfaces\\ISubjectRepository.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Interfaces\\ISubjectRepository.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Interfaces\\ISubjectRepository.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Interfaces\\ISubjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:12:49.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:12:38.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:11:50.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Models\\Subject.cs",
+              "RelativeToolTip": "ElectronicJournalfinal\\Models\\Subject.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:10:33.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Form1.cs",
+              "RelativeDocumentMoniker": "ElectronicJournalfinal\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dream\\source\\repos\\ElectronicJournalfinal\\ElectronicJournalfinal\\Form1.cs [Design]",
+              "RelativeToolTip": "ElectronicJournalfinal\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T23:09:11.431Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
