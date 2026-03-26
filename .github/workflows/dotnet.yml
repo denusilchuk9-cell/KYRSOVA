@@ -19,14 +19,14 @@ jobs:
     - name: Setup NuGet
       uses: NuGet/setup-nuget@v2
     
+    - name: List files
+      run: dir /s
+    
     - name: Restore packages
-      run: nuget restore ElectronicJournal/ElectronicJournal.csproj && nuget restore ElectronicJournal.Tests/ElectronicJournal.Tests.csproj
+      run: nuget restore ElectronicJournal/ElectronicJournal/ElectronicJournal.csproj
     
-    - name: Build main project
-      run: msbuild ElectronicJournal/ElectronicJournal.csproj /p:Configuration=Release
-    
-    - name: Build tests
-      run: msbuild ElectronicJournal.Tests/ElectronicJournal.Tests.csproj /p:Configuration=Release
+    - name: Build
+      run: msbuild ElectronicJournal/ElectronicJournal/ElectronicJournal.csproj /p:Configuration=Release
     
     - name: Test
-      run: vstest.console.exe ElectronicJournal.Tests\bin\Release\ElectronicJournal.Tests.dll
+      run: vstest.console.exe ElectronicJournal/ElectronicJournal.Tests/bin/Release/ElectronicJournal.Tests.dll
