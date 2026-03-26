@@ -19,9 +19,6 @@ jobs:
     - name: Setup NuGet
       uses: NuGet/setup-nuget@v2
     
-    - name: List files
-      run: dir /s
-    
     - name: Restore packages
       run: nuget restore ElectronicJournal/ElectronicJournal/ElectronicJournal.csproj
     
