@@ -1,0 +1,31 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Setup MSBuild
+      uses: microsoft/setup-msbuild@v2
+    
+    - name: Setup NuGet
+      uses: NuGet/setup-nuget@v2
+    
+    - name: Restore packages
+      run: nuget restore KYRSOVA.sln
+    
+    - name: Build
+      run: msbuild KYRSOVA.sln /p:Configuration=Release
+    
+    - name: Test
+      run: vstest.console.exe ElectronicJournal.Tests\bin\Release\ElectronicJournal.Tests.dll
