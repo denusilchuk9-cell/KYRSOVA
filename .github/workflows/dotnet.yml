@@ -19,6 +19,11 @@ jobs:
     - name: Setup NuGet
       uses: NuGet/setup-nuget@v2
     
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '6.0.x'
+    
     - name: Restore packages
       run: nuget restore ElectronicJournal/ElectronicJournal/ElectronicJournal.csproj
     
@@ -26,4 +31,4 @@ jobs:
       run: msbuild ElectronicJournal/ElectronicJournal/ElectronicJournal.csproj /p:Configuration=Release
     
     - name: Test
-      run: vstest.console.exe ElectronicJournal/ElectronicJournal.Tests/bin/Release/ElectronicJournal.Tests.dll
+      run: dotnet test ElectronicJournal/ElectronicJournal.Tests/ElectronicJournal.Tests.csproj --configuration Release --no-build --verbosity normal
