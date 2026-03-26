@@ -1,0 +1,7 @@
+C:\Users\Dream\source\repos\electronjournalfinal100\ElectronicJournal\ElectronicJournal\bin\Debug\ElectronicJournal.exe.config
+C:\Users\Dream\source\repos\electronjournalfinal100\ElectronicJournal\ElectronicJournal\bin\Debug\ElectronicJournal.exe
+C:\Users\Dream\source\repos\electronjournalfinal100\ElectronicJournal\ElectronicJournal\bin\Debug\ElectronicJournal.pdb
+C:\Users\Dream\source\repos\electronjournalfinal100\ElectronicJournal\ElectronicJournal\obj\Debug\ElectronicJournal.csproj.AssemblyReference.cache
+C:\Users\Dream\source\repos\electronjournalfinal100\ElectronicJournal\ElectronicJournal\obj\Debug\ElectronicJournal.csproj.CoreCompileInputs.cache
+C:\Users\Dream\source\repos\electronjournalfinal100\ElectronicJournal\ElectronicJournal\obj\Debug\ElectronicJournal.exe
+C:\Users\Dream\source\repos\electronjournalfinal100\ElectronicJournal\ElectronicJournal\obj\Debug\ElectronicJournal.pdb
