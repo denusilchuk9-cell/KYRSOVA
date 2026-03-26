@@ -13,16 +13,20 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
     
-    - name: Setup .NET
-      uses: actions/setup-dotnet@v4
-      with:
-        dotnet-version: '6.0.x'
+    - name: Setup MSBuild
+      uses: microsoft/setup-msbuild@v2
+    
+    - name: Setup NuGet
+      uses: NuGet/setup-nuget@v2
     
     - name: Restore packages
-      run: dotnet restore ElectronicJournal/ElectronicJournal.csproj
+      run: nuget restore ElectronicJournal/ElectronicJournal.csproj && nuget restore ElectronicJournal.Tests/ElectronicJournal.Tests.csproj
     
-    - name: Build
-      run: dotnet build ElectronicJournal/ElectronicJournal.csproj --configuration Release --no-restore
+    - name: Build main project
+      run: msbuild ElectronicJournal/ElectronicJournal.csproj /p:Configuration=Release
+    
+    - name: Build tests
+      run: msbuild ElectronicJournal.Tests/ElectronicJournal.Tests.csproj /p:Configuration=Release
     
     - name: Test
-      run: dotnet test ElectronicJournal.Tests/ElectronicJournal.Tests.csproj --configuration Release --no-build --verbosity normal
+      run: vstest.console.exe ElectronicJournal.Tests\bin\Release\ElectronicJournal.Tests.dll
