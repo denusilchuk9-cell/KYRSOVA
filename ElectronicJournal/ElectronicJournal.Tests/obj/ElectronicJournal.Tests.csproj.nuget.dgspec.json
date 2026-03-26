@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dream\\source\\repos\\electronjournalfinal100\\ElectronicJournal\\ElectronicJournal.Tests\\ElectronicJournal.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dream\\source\\repos\\electronjournalfinal100\\ElectronicJournal\\ElectronicJournal.Tests\\ElectronicJournal.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dream\\source\\repos\\electronjournalfinal100\\ElectronicJournal\\ElectronicJournal.Tests\\ElectronicJournal.Tests.csproj",
+        "projectName": "ElectronicJournal.Tests",
+        "projectPath": "C:\\Users\\Dream\\source\\repos\\electronjournalfinal100\\ElectronicJournal\\ElectronicJournal.Tests\\ElectronicJournal.Tests.csproj",
+        "packagesPath": "C:\\Users\\Dream\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dream\\source\\repos\\electronjournalfinal100\\ElectronicJournal\\ElectronicJournal.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dream\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net481"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net481": {
+            "targetAlias": "net481",
+            "projectReferences": {
+              "C:\\Users\\Dream\\source\\repos\\electronjournalfinal100\\ElectronicJournal\\ElectronicJournal\\ElectronicJournal.csproj": {
+                "projectPath": "C:\\Users\\Dream\\source\\repos\\electronjournalfinal100\\ElectronicJournal\\ElectronicJournal\\ElectronicJournal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net481": {
+          "targetAlias": "net481",
+          "dependencies": {
+            "MSTest": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dream\\source\\repos\\electronjournalfinal100\\ElectronicJournal\\ElectronicJournal\\ElectronicJournal.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dream\\source\\repos\\electronjournalfinal100\\ElectronicJournal\\ElectronicJournal\\ElectronicJournal.csproj",
+        "projectName": "ElectronicJournal",
+        "projectPath": "C:\\Users\\Dream\\source\\repos\\electronjournalfinal100\\ElectronicJournal\\ElectronicJournal\\ElectronicJournal.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net481": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net481": {}
+      }
+    }
+  }
+}

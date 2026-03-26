@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ElectronicJournal.Tests/ElectronicJournal.Tests.csproj" />
+  <Project Path="ElectronicJournal/ElectronicJournal.csproj" Id="24856f04-9c1c-4449-b351-eacdac1f8bdb" />
+</Solution>
