@@ -1,0 +1,31 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Setup MSBuild
+      uses: microsoft/setup-msbuild@v2
+    
+    - name: Setup NuGet
+      uses: NuGet/setup-nuget@v2
+    
+    - name: Restore packages
+      run: nuget restore ElectronicJournalfinal.sln -PackagesDirectory packages
+    
+    - name: Build
+      run: msbuild ElectronicJournalfinal.sln /p:Configuration=Release /p:RestorePackages=false
+    
+    - name: Test
+      run: dotnet test ElectronicJournal.Tests/ElectronicJournal.Tests.csproj --no-build --verbosity normal
